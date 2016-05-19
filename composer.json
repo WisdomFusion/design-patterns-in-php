@@ -1,0 +1,23 @@
+{
+    "name": "DesignPatterns",
+    "description": "Design Patterns in PHP",
+    "keywords": ["DesignPatterns"],
+    "license": "MIT",
+    "type": "project",
+
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "DesignPatterns/"
+        }
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
