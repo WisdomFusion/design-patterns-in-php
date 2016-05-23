@@ -12,14 +12,14 @@
 
 在软件工程中，创建型设计模式用于处理对象的实例化：
 
-- 抽象工厂模式（Abstract Factory）
-- 建造者模式（Builder）
-- 工厂方法模式（Factory Method）
+- [抽象工厂模式（Abstract Factory）](./DesignPatterns/Creational/AbstractFactory/)
+- [建造者模式（Builder）](./DesignPatterns/Creational/Builder/)
+- [工厂方法模式（Factory Method）](./DesignPatterns/Creational/FactoryMethod/)
 - 多例模式（Multiton）
 - 对象池模式（Pool）
-- 原型模式（Prototype）
+- [原型模式（Prototype）](./DesignPatterns/Creational/Prototype/)
 - 简单工厂模式（Simple Factory）
-- 单例模式（Singleton）
+- [单例模式（Singleton）](./DesignPatterns/Creational/Singleton/)
 - 静态工厂模式（Static Factory）
 
 ### 2.2 结构型（Structural design patterns）
